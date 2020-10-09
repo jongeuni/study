@@ -10,6 +10,3 @@ def divide(a, b):
     
 def multiply_free(a,b);
 	return a*b
-
-def square(a);
-	return a*a
